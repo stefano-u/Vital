@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.wew.health.deltahacks2019">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@mipmap/ic_launcher"
+        android:label="@string/app_name"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".PersonChoiceActivity"></activity>
+        <activity android:name=".ServedActivity" />
+        <activity android:name=".RateActivity" />
+        <activity android:name=".FruitMenuActivity" />
+        <activity android:name=".OurRecommendationActivity" />
+        <activity android:name=".NewOrderActivity" />
+        <activity android:name=".DashboardAllActivity" />
+        <activity android:name=".ProfileActivity" />
+        <activity android:name=".DashboardActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+
+        <meta-data
+            android:name="preloaded_fonts"
+            android:resource="@array/preloaded_fonts" />
+    </application>
+
+</manifest>

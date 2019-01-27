@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<resources>
+  <color name="colorPrimary">#0c66ff</color>
+  <color name="colorPrimaryDark">#00574B</color>
+  <color name="colorAccent">#D81B60</color>
+  <color name="white">#ffffff</color>
+  <color name="black">#000000</color>
+  <color name="manatee">#979797</color>
+  <color name="oxfordblue">#051033</color>
+  <color name="prussianblue">#182c4f</color>
+  <color name="harvardcrimson">#d0021b</color>
+  <color name="darktangerine">#f5a623</color>
+  <color name="platinum">#e0e0e0</color>
+  <color name="paynegrey">#53627c</color>
+  <color name="azure">#007fff</color>
+  <color name="brandeisblue">#0c66ff</color>
+  <color name="unitednationsblue">#4a90e2</color>
+</resources>
+

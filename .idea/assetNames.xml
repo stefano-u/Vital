@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="assetNames">
+    <option name="mapping">
+      <map>
+        <entry key="header_greeting_food" value="header_greeting_rate" />
+        <entry key="header_recommendations" value="header_fruits" />
+      </map>
+    </option>
+  </component>
+</project>
